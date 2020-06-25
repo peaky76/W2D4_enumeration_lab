@@ -6,5 +6,6 @@ class StarSystem
     @name = name
     @planets = planets
   end
+  
 
 end
